@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dxc.api.ClienteDxcApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.1 s - in com.dxc.api.ClienteDxcApplicationTests

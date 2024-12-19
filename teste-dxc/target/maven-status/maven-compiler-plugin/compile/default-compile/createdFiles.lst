@@ -1,0 +1,6 @@
+com\dxc\api\config\SecurityConfi.class
+com\dxc\api\domain\Cliente.class
+com\dxc\api\repository\ClienteRepository.class
+com\dxc\api\service\ClienteService.class
+com\dxc\api\ClienteDxcApplication.class
+com\dxc\api\controller\ClienteController.class
